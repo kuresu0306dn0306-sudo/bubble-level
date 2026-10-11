@@ -1,5 +1,11 @@
 # 氣泡水平儀（手機網頁版）
 
+**開啟網址：** https://kuresu0306dn0306-sudo.github.io/bubble-level/
+
+用手機相機掃描 QR Code 開啟：
+
+<img src="qrcode.png" width="220" alt="氣泡水平儀網址 QR Code">
+
 利用手機內建的方向感測器量測傾斜角度，單一檔案 `index.html`，不需安裝 App。
 
 ## 功能
